@@ -1,0 +1,22 @@
+{
+  "name": "react-screenshot-to-component",
+  "version": "1.0.0",
+  "description": "Generate React components from screenshots using Groq AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node server.js",
+    "client": "cd client && npm start"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.1",
+    "express-rate-limit": "^7.4.1",
+    "groq-sdk": "^0.3.3",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
