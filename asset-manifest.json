@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UI-VISION/static/css/main.6a295aba.css",
+    "main.js": "/UI-VISION/static/js/main.ff5c986d.js",
+    "static/js/453.419a5d54.chunk.js": "/UI-VISION/static/js/453.419a5d54.chunk.js",
+    "index.html": "/UI-VISION/index.html",
+    "main.6a295aba.css.map": "/UI-VISION/static/css/main.6a295aba.css.map",
+    "main.ff5c986d.js.map": "/UI-VISION/static/js/main.ff5c986d.js.map",
+    "453.419a5d54.chunk.js.map": "/UI-VISION/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a295aba.css",
+    "static/js/main.ff5c986d.js"
+  ]
+}
