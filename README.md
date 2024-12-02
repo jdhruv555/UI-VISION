@@ -3,6 +3,9 @@
 ## Overview
 UI Vision is an AI-powered tool that converts UI screenshots into React components with Tailwind CSS styling.
 
+## Live Demo
+🌐 **[https://jdhruv555.github.io/UI-VISION](https://jdhruv555.github.io/UI-VISION)**
+
 ## Features
 - Drag and drop screenshot upload
 - AI-powered component generation
@@ -66,3 +69,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Dhruv - [GitHub Profile](https://github.com/jdhruv555)
 
 Project Link: [https://github.com/jdhruv555/UI-VISION](https://github.com/jdhruv555/UI-VISION)
+Demo Link: [https://jdhruv555.github.io/UI-VISION](https://jdhruv555.github.io/UI-VISION)
